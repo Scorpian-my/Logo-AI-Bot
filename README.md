@@ -10,3 +10,11 @@ pip install requests
 ```
 <center><h1>Logo Creator And AI Text To Image</h1></center>
 <p style="color:red;">Thanks to the Haji API team for completing the project</p>
+
+``diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
