@@ -7,3 +7,8 @@ pip install requests
 pip install persiantools
 python3 main.py
 ```
+```
+pip install telethon
+pip install pillow
+pip install pytz
+```
