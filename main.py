@@ -1,5 +1,5 @@
 # -=-=-=-=-=-=-=-=-=-=-=
-#
+#GitHub.com/Scorpian-my
 # -=-=-=-=-=-=-=-=-=-=-=
 from rubpy import Client, handlers, Message, models
 from requests import get, post
