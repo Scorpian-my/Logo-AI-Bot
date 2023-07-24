@@ -9,4 +9,4 @@ pip install persiantools
 pip install requests
 ```
 <center><h1>Logo Creator And AI Text To Image</h1></center>
-<b style="color: red;">Thanks to the Haji API team for completing the project</b>
+<p style="color:red;">Thanks to the Haji API team for completing the project</p>
