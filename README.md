@@ -1,5 +1,5 @@
 # Logo-AI-Bot
-
+<b>Support: rubika.ir/Pyrogram<b>
 <br><hr>
 
 It is a robot for the messenger Rubika
